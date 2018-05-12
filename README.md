@@ -1,2 +1,5 @@
-# C programing cheat sheet
+# C programing 
+Cheat Sheet 
+
+
 
