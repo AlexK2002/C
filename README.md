@@ -1,5 +1,5 @@
 # C programing 
-Cheat Sheet 
 
+some of my C programs 
 
 
